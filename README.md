@@ -1,7 +1,7 @@
 # Awesome Graph Anomaly Detection 
-Collections for state-of-the-art (SOTA), novel awesome graph anomaly detecion methods (papers, codes and datasets)
+Collections for state-of-the-art (SOTA), novel awesome graph anomaly detecion methods (papers, codes and datasets) for this field.
 
-We are looking forward for other participants to share their papers and codes. If interested, please contanct <jingcan_duan@163.com> or jinhu@nudt.edu.cn.
+We are looking forward for other participants to share their papers and codes. If interested, please contanct <jingcan_duan@163.com> or <jinhu@nudt.edu.cn>.
 
 ## Table of Contents
 
